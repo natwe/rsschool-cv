@@ -50,12 +50,12 @@ In the user part for the project Blockchain + IoT (Python, Flask):
 
         return render_template('index.html')
 
-## Work Experience 
+## Work Experience
 
 - **[02/2020 – 09/2020]** [The Group of companies «Fuel and Energy complex – KAZAKHSTAN»](https://www.tek-kaz.kz/en)
   - Chief Manager of the Department of Automation and Maintenance of Production and Information Technologies 
 - **[07/2016 – 11/2019]** Benatech LLP
-  - Lead engineer of Automated Control Systems 
+  - Lead engineer of Automated Control Systems
 - **[01/2010 – 07/2016]** [Kazakhstan Aluminium Smelter JSC (KAS)](https://www.erg.kz/en)
   - Lead engineer of the Telemechanics and Automated Control Systems group
 
@@ -69,7 +69,7 @@ In the user part for the project Blockchain + IoT (Python, Flask):
   - Training: Netcon 3000 Advanced Maintenance
 - **[09/2006 – 05/2010]** [Innovative University of Eurasia](https://www.ineu.kz/en/)
   - Bachelor of Science in Information Systems
-  
+
 ## Languages
 
 - **Mother tongue**: Russian
